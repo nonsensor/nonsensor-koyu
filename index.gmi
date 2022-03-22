@@ -10,5 +10,7 @@
 
 I'm just kind of testing stuff right now. Never used Gemini. But it is compelling to someone who was there before the graphical web.
 
+I like to write about cheap and old electronic music hardware, front end dev with an old-school bent, and Linux for "regular" people.
+
 ## Gemlog
 =>03-22-2022.gmi How I copped out and why
