@@ -1,3 +1,11 @@
+```
+ ▐ ▄        ▐ ▄ .▄▄ · ▄▄▄ . ▐ ▄ .▄▄ ·       ▄▄▄  
+•█▌▐█▪     •█▌▐█▐█ ▀. ▀▄.▀·•█▌▐█▐█ ▀. ▪     ▀▄ █·
+▐█▐▐▌ ▄█▀▄ ▐█▐▐▌▄▀▀▀█▄▐▀▀▪▄▐█▐▐▌▄▀▀▀█▄ ▄█▀▄ ▐▀▀▄ 
+██▐█▌▐█▌.▐▌██▐█▌▐█▄▪▐█▐█▄▄▌██▐█▌▐█▄▪▐█▐█▌.▐▌▐█•█▌
+▀▀ █▪ ▀█▄▀▪▀▀ █▪ ▀▀▀▀  ▀▀▀ ▀▀ █▪ ▀▀▀▀  ▀█▄▀▪.▀  ▀
+```
+
 # Welcome!
 
 I'm just kind of testing stuff right now. Never used Gemini. But it is compelling to someone who was there before the graphical web.
